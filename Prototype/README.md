@@ -11,8 +11,9 @@
 ## Установка
 Для корректной работы с программным кодом требуется наличие следящих компонентов:
 - Java 11
-- Maven
 - JavaFx
+- Maven
+
 
 ## Демонстрация проекта:
 ![ОКНО ПРОГРАММЫ](https://github.com/Sergej-G/Prototype/blob/master/Prototype/1.PNG)
