@@ -13,4 +13,4 @@
 - JavaFx
 
 ## Демонстрация проекта:
-![ОКНО ПРОГРАММЫ](Prototype/1.PNG)
+![ОКНО ПРОГРАММЫ](https://github.com/Sergej-G/Prototype/blob/master/Prototype/1.PNG)
